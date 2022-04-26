@@ -7,9 +7,9 @@ Download the theme(s) and put them in kittys theme folder.
 The theme(s) should be available when running `kitty +kitten themes`.
 
 ## Todo:
-- [ ] Dark Soft
-- [ ] Dark Medium
-- [x] Dark Hard
+- [X] Dark Soft
+- [X] Dark Medium
+- [X] Dark Hard
 - [ ] Light Soft
 - [ ] Light Medium
 - [ ] Light Hard
