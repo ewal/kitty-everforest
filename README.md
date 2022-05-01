@@ -3,7 +3,7 @@
 Based on the [vim theme](https://github.com/sainnhe/everforest) made by [sainnhe ](https://github.com/sainnhe).
 
 ## Installation
-Download the theme(s) and put them in kittys theme folder.
+Download the theme(s) and put them in the kitty theme folder.
 The themes will be available when running `kitty +kitten themes`.
 
 ## (Neo)Vim
