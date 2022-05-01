@@ -14,13 +14,5 @@ I'd suggest using https://github.com/edkolev/tmuxline.vim
 Set the theme and add the `snapshot` to your tmux conf file to persist the theme on restarts.
 Append this line `set -wg mode-style bg=[*selection_background],fg=[**selection_foreground]` to make selections follow the theme in copy mode.
 
-_(*selection_background = #503946)_
+_(*selection_background = #503946)_<br />
 _(**selection_foreground = #9da9a0)_
-
-## Todo:
-- [X] Dark Soft
-- [X] Dark Medium
-- [X] Dark Hard
-- [X] Light Soft
-- [X] Light Medium
-- [X] Light Hard
