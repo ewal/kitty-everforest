@@ -4,12 +4,23 @@ Based on the [vim theme](https://github.com/sainnhe/everforest) made by [sainnhe
 
 ## Installation
 Download the theme(s) and put them in kittys theme folder.
-The theme(s) should be available when running `kitty +kitten themes`.
+The themes will be available when running `kitty +kitten themes`.
+
+## (Neo)Vim
+The Everforest themes can be found here https://github.com/sainnhe/everforest
+
+## Tmux
+I'd suggest using https://github.com/edkolev/tmuxline.vim
+Set the theme and add the `snapshot` to your tmux conf file to persist the theme on restarts.
+Append this line `set -wg mode-style bg=[*selection_background],fg=[**selection_foreground]` to make selections follow the theme in copy mode.
+
+_(*selection_background = #503946)_
+_(**selection_foreground = #9da9a0)_
 
 ## Todo:
 - [X] Dark Soft
 - [X] Dark Medium
 - [X] Dark Hard
-- [ ] Light Soft
-- [ ] Light Medium
-- [ ] Light Hard
+- [X] Light Soft
+- [X] Light Medium
+- [X] Light Hard
